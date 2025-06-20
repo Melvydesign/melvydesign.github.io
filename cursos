@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+</head>
+
+<body class="bg-warning">
+  <div class="row">
+    <header class="container-fluid bg-danger text-center rounded-5 border border-white border-3 mb-3 col-lg-12 col-md-12 col-12">
+    <img src="imagenes/Guby logo-02.png" alt="logoguby">
+  </header>
+  </div>
+  <div class="row">
+  <ul class="nav justify-content-center bg-info container-sm rounded-5 border border-white border-3 col-lg-6 col-md-12 col-12">
+    <li class="nav-item">
+      <a class="nav-link text-white" href="paginaprincipal.html"><b>Inicio</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="cursos.html"><b>Cursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="recursos.html"><b>Recursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#"><b>Sobre nosotros</b></a>
+    </li>
+  </ul>
+  </div>
+  <br>
+  <div class="row">
+  <div class="container-fluid bg-success text-center text-white rounded-5 border border-white border-3 p-2 col-lg-12 col-md-12 col-12">
+    <b>Nuestros cursos</b>
+  </div>
+  </div>
+  <br>
+  <div class="container mb-3">
+    <div class="row align-items-center">
+      <div class="col-md-5 col-lg-6 col-12 mb-3">
+        <img src="imagenes/5b8f6408-cdc1-48d6-8a33-7b4ce8ed81dc.jpg" class="img-fluid border border-white border-3" alt="Comida">
+      </div>
+      <div class="col-md-7 col-lg-6 col-12">
+        <h5 class="bg-info text-center rounded-5 border border-white border-3 p-2 text-white"><b>Descripción:</b></h5>
+        <p class="mt-3 bg-light p-1">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente molestias at veritatis quos facere
+          tempore, quae est neque magni eos aliquam, sed deleniti eveniet corrupti repellendus soluta dolore ullam
+          voluptates? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus molestias quis, consequuntur
+          vitae adipisci tenetur rerum. Velit unde excepturi at, iusto, similique vitae cupiditate quod inventore, id
+          sed eveniet saepe.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="container mb-3">
+    <div class="row">
+      <div class="col-md-6 col-lg-6 col-12">
+<h5 class="bg-info text-center rounded-5 border border-white border-3 p-2"><a href="cursosparainfantesde6a9.html" class="text-white"><b>Cursos para niños de 6-9 años</b></a></h5>
+        <p class="bg-light p-1">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quos nobis, labore inventore
+          consequuntur molestiae atque vero aperiam dolor illo fuga aut earum, quibusdam modi repudiandae perferendis
+          ullam, est maiores.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut corporis, cupiditate modi impedit nobis commodi
+          ipsam expedita. In est qui magnam placeat aspernatur debitis, animi alias repellendus assumenda, consectetur
+          iste.
+        </p>
+      </div>
+      <div class="col-md-6 col-lg-6 col-12">
+        <h5 class="bg-info text-center rounded-5 border border-white border-3 p-2 text-white"><a href="cursosparainfantesde10a12.html"
+            class="text-white"><b>Cursos para niños de 10 a 12 años</b></a></h5>
+        <p class="bg-light p-1">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem voluptas modi eius ea quos explicabo amet
+          laudantium ipsam nulla facilis illum quaerat esse in quam omnis, repellat sed nisi? Explicabo?
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam magni, dolor sequi animi eos quis a
+          suscipit et velit vitae accusamus porro similique, itaque amet adipisci molestias natus blanditiis ducimus.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <footer class="container-fluid text-center rounded-5 border border-dark border-3 bg-light col-12 col-lg-12 col-md-12">
+    <img src="imagenes/Guby logo-03.png" alt="logoguby">
+    <p class="text-danger">Copyright 2025</p>
+  </footer>
+  </div>
+  <p><i>Hecho por Karen Melvy Miranda Chavez e Isabel Reyna Gutierrez Nina</i></p>
+</body>
+
+</html>
