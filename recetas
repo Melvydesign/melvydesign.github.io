@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recetas</title>
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <script src="bootstrap/js/bootstrap.min.js">
+  </script>
+</head>
+
+<body style="background-color: lightsalmon;">
+  <div class="row">
+  <header class="container-fluid bg-danger text-center rounded-5 border border-white border-3 mb-3 col-lg-12 col-12 col-md-12">
+    <img src="imagenes/Guby logo-02.png" alt="logoguby">
+  </header>
+  </div>
+  <div class="row">
+  <ul class="nav justify-content-center bg-info container-sm rounded-5 border border-white border-3 col-12 col-lg-6 col-md-12">
+    <li class="nav-item">
+      <a class="nav-link text-white" href="paginaprincipal.html"><b>Inicio</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="cursos.html"><b>Cursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="recursos.html"><b>Recursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#"><b>Sobre nosotros</b></a>
+    </li>
+  </ul>
+  </div>
+  <br>
+  <div class="row">
+  <div class="container-fluid bg-success text-center text-white rounded-5 border border-white border-3 p-2 col-12 col-lg-12 col-md-12">
+    <b>Recetas</b>
+  </div>
+  </div>
+  <br>
+  <div class="row">
+  <div class="text-center col-12 col-lg-12 col-md-12">
+    <img src="imagenes/recetas imagen principal.jpg" style="height: auto; width: 400px;" class="border border-dark border-2 img-fluid" alt="peces">
+  </div>
+  </div>
+  <div class="row">
+  <ul class="nav justify-content-center bg-info container-sm rounded-5 border border-white border-3 mt-3 col-12 col-lg-6 col-md-12">
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#todas"><b>Todas</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#"><b>Postres</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#"><b>Desayunos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-white" href="#"><b>Almuerzos</b></a>
+    </li>
+  </ul>
+  </div>
+  <br>
+  <!--Algunos links no servirán porque las otras páginas no estan realizadas ya que se nos pidio hacer solo 6 en caso de mi grupo-->
+ <div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/cheesecake.jpg" class="border border-dark border-2" style="width: 200px; height: 100px;" alt="cheesecake">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://www.infobae.com/tendencias/2024/06/17/receta-de-cheesecake-rapida-y-facil-de-preparar/" class="text-white" id="todas">Cheesecake:</a>
+        </b><br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus facilis voluptas delectus, dolorum quasi nulla eos iste quam consequuntur magnam.
+      </p>
+    </div>
+
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/helados.jpg" class="border border-dark border-2" style="width: 150px; height: 100px;" alt="helados">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://www.lanacion.com.ar/recetas/postres/helado-de-frutilla-a-la-crema-nid15012022/" class="text-white">Helado:</a>
+        </b><br>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, consequuntur molestias reprehenderit nam rem explicabo repudiandae.
+      </p>
+    </div>
+
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/frapes.jpg" class="border border-dark border-2" style="width: 200px; height: 100px;" alt="frapes">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://cookpad.com/bo/recetas/17234156?ref=search&search_term=frappe+de+frutas" class="text-white">Frapes:</a>
+        </b><br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum nam obcaecati voluptatem reprehenderit quasi nulla sunt atque, pariatur mollitia nisi sed in.
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/carlota.jpg" class="border border-dark border-2" style="width: 200px; height: 100px;" alt="carlota de limon">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://www.bonviveur.es/recetas/carlota-de-limon" class="text-white">Carlota:</a>
+        </b><br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias ipsam unde cum sequi deleniti, nesciunt vel exercitationem dolor ipsum ea pariatur omnis porro rem.
+      </p>
+    </div>
+
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/queques.jpg" class="border border-dark border-2" style="width: 200px; height: 100px;" alt="queque">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://www.gourmet.cl/recetas/queque-de-platano/" class="text-white">Queque:</a>
+        </b><br>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam tempora, vitae tempore sunt eligendi eveniet reiciendis officiis vero, eum numquam.
+      </p>
+    </div>
+
+    <div class="col-md-12 col-12 col-lg-4 d-flex mb-2">
+      <img src="imagenes/empanadas.jpg" class="border border-dark border-2" style="width: 200px; height: 100px;" alt="empanadas">
+      <p style="font-size: 10px;" class="p-2">
+        <b class="bg-success border rounded rounded-5 border-2 p-1" style="font-size: 20px;">
+          <a href="https://www.recetas.com.bo/receta/empanadas-de-queso" class="text-white">Empanadas:</a>
+        </b><br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis libero id illo officia deserunt similique minus veniam.
+      </p>
+    </div>
+  </div>
+</div>
+  <div class="row">
+   <footer class="container-fluid text-center rounded-5 border border-dark border-3 bg-light col-12 col-lg-12 col-md-12" style="height: 80px;">
+    <img src="imagenes/Guby logo-03.png" alt="logoguby">
+    <p class="text-danger">Copyright 2025</p>
+  </footer>
+  </div>
+  <p><i>Hecho por Karen Melvy Miranda Chavez e Isabel Reyna Gutierrez Nina</i></p>
+</body>
+
+</html>
