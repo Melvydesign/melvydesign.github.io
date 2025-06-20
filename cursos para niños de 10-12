@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cursos para niños de 10-12 años</title>
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <script src="bootstrap/js/bootstrap.min.js">
+  </script>
+</head>
+
+<body>
+  <div class="row">
+  <header class="container-fluid bg-danger text-center rounded-5 border border-dark border-3 mb-3 col-12 col-lg-12 col-md-12">
+    <img src="imagenes/Guby logo-02.png" alt="logoguby">
+  </header>
+  </div>
+  <div class="row">
+  <ul class="nav justify-content-center bg-warning container-sm rounded-5 border border-dark border-3 col-12 col-lg-6 col-md-12">
+    <li class="nav-item">
+      <a class="nav-link text-body" href="paginaprincipal.html"><b>Inicio</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-body" href="cursos.html"><b>Cursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-body" href="recursos.html"><b>Recursos</b></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-body" href="#"><b>Sobre nosotros</b></a>
+    </li>
+  </ul>
+  </div>
+  <br>
+  <div class="row">
+  <div class="container-fluid bg-success text-center text-white rounded-5 border border-dark border-3 p-2 col-12 col-lg-12 col-md-12">
+    <b>Cursos para niños de 10-12 años</b>
+  </div>
+  </div>
+  <br>
+  <div class="row justify-content-center align-items-center">
+    <div class="col-md-6 col-12 col-lg-4 mb-3">
+      <img src="imagenes/6-12.jpg" class="img-fluid border border-dark border-3" alt="Niños cocineros">
+    </div>
+    <div class="col-md-6 col-lg-4 col-12">
+      <div>
+        <h5 class="bg-warning text-center rounded-5 border border-dark border-3 p-2"><b>Información del curso:</b></h5>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis explicabo tempore quaerat aliquid
+          reprehenderit perspiciatis velit accusantium asperiores sunt sapiente. Facere ab, sint voluptates assumenda
+          earum eaque fuga molestias vero.</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="border border-dark border-3 rounded-5 ps-3 bg-warning col-12 col-lg-12 col-md-12">
+    <h5>Metas</h5>
+  </div>
+  </div>
+  <div class="row">
+  <p class="col-12 col-lg-12 col-md-12">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat perferendis quasi accusamus enim alias ex, quis
+    recusandae pariatur veniam modi, voluptates labore ullam natus iusto voluptatem neque, ab eius. Quam!</p>
+ </div>
+ <div class="row">
+    <div class="border border-dark border-3 rounded-5 ps-3 bg-warning col-12 col-lg-12 col-md-12">
+    <h5>Beneficios</h5>
+  </div>
+  </div>
+  <div class="row">
+  <p class="col-12 col-lg-12 col-md-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. In deserunt sequi ex excepturi soluta eligendi odit rem
+    porro, inventore quia quod vitae numquam consequatur. Maxime at dolore tenetur modi? Repellendus!</p>
+      </div>
+      <div class="row">
+    <div class="border border-dark border-3 rounded-5 ps-3 bg-warning col-12 col-lg-12 col-md-12">
+    <h5>Empieza el curso aqui:</h5>
+  </div>
+  </div>
+  <p><a href="#">Cursos para niños de 10-12 años</a></p>
+  <!--El link no funcionará porque esa página no existe aún ya que solo debiamos hacer 6-->
+ <div class="row">
+  <footer class="container-fluid text-center rounded-5 border border-dark border-3 col-12 col-lg-12 col-md-12">
+    <img src="imagenes/Guby logo-03.png" alt="logoguby">
+    <p class="text-danger">Copyright 2025</p>
+  </footer>
+  </div>
+  <p><i>Hecho por Karen Melvy Miranda Chavez e Isabel Reyna Gutierrez Nina</i></p>
+</body>
+
+</html>
